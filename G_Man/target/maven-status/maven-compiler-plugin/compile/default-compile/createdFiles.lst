@@ -1,0 +1,7 @@
+com\mycompany\power_of_g_man\InputReader.class
+com\mycompany\power_of_g_man\PowerOfGManApp.class
+com\mycompany\power_of_g_man\InputEntity.class
+com\mycompany\power_of_g_man\PowerCalculator.class
+com\mycompany\power_of_g_man\PowerOfGMan.class
+com\mycompany\power_of_g_man\Travel.class
+exception_handler\UserException.class
